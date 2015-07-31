@@ -168,7 +168,7 @@ public class TopK {
 		int []t=new int[100];
 		for(int i=0;i<=99;i++){
 			t[i]=(int)(Math.random()*100);
-			System.out.println(t[i]);
+		//	System.out.println(t[i]);
 		}
 		
 		//MinHeap min=new MinHeap(t);
