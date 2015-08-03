@@ -29,18 +29,18 @@ public class MinHeap{
     public void heapify(int[] data,int i,int length){
         int l=2*i+1;
         int r=2*i+2;
-        int minIndex=i;
-        if(l<length && data[l]<data[i])
-            minIndex=l;
-        if(r<length && data[r]<data[minIndex])
-            minIndex=r;
-        if(minIndex==i)
+        int maxIndex=i;
+        if(l<length && data[l]>data[i])
+            maxIndex=l;
+        if(r<length && data[r]>data[maxIndex])
+            maxIndex=r;
+        if(maxIndex==i)
             return;
         else{
             int temp=data[i];
-            data[i]=data[minIndex];
-            data[minIndex]=temp;
-            heapify(data,minIndex,length);
+            data[i]=data[maxIndex];
+            data[maxIndex]=temp;
+            heapify(data,maxIndex,length);
         }
     }
 }

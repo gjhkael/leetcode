@@ -5,7 +5,7 @@ package sort;
  */
 public class ShellSort {
     public static void main(String[] args){
-        int[] data5 = new int[] { 5, 3, 6, 2, 1, 9, 4, 8, 7 ,4,5,7,8};
+        int[] data5 = new int[] { 5, 3, 6, 2, 1,5, 9, 4, 8, 7 ,4,5,7,8};
         ArrayUtils.printArray(data5);
         shellSort(data5);
         ArrayUtils.printArray(data5);
@@ -17,7 +17,10 @@ public class ShellSort {
         }
         while(h>0){
             System.out.println(h);
-            for(int i=h;i<data.length;i++){
+
+
+
+            for(int i=h;i<data.length;i+=h){
                 if (data[i] < data[i - h]) {
                     int tmp = data[i];
                     int j = i - h;

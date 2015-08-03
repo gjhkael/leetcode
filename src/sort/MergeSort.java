@@ -12,6 +12,8 @@ public class MergeSort {
         ArrayUtils.printArray(test);
     }
     public static void mergeSort(int[] array,int left,int right){
+        if(array.length==0 || array==null)
+            return ;
         if(left>=right) return;
         int center=left+(right-left)/2;
         mergeSort(array,left,center);    //递归排序左半部分数据
