@@ -2,11 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5ec06c8-9ade-4ab5-b214-1bc44db2c37d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dynamic/LesLength.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SwordOffer/MatrixFind.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dynamic/KnapSack.java" afterPath="$PROJECT_DIR$/src/dynamic/KnapSack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwordOffer/Singleton.java" afterPath="$PROJECT_DIR$/src/SwordOffer/Singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/HouseRobber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/HouseRobber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/String/Introduction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/Introduction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/array/Introduction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/Introduction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/Introduction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/sort/Introduction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javalanguage/Introduction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/InvertTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/IsValidBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/KnapSack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/LowestAncestorOfBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/MaximumPathSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javalanguage/test.java" />
+      <change type="DELETED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\KnapSack.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\CalcAllPermutation.java" afterPath="$PROJECT_DIR$/src/algorithm/String/CalcAllPermutation.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\LeftShiftOne.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LeftShiftOne.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LongestPalindrome.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\LongestSubstring.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LongestSubstring.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\Palindrome.java" afterPath="$PROJECT_DIR$/src/algorithm/String/Palindrome.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\StrToInt.java" afterPath="$PROJECT_DIR$/src/algorithm/String/StrToInt.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\StringContain.java" afterPath="$PROJECT_DIR$/src/algorithm/String/StringContain.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\instroduce.java" afterPath="$PROJECT_DIR$/src/algorithm/String/instroduce.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\SwordOffer\MatrixFind.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/MatrixFind.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\SwordOffer\Singleton.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/Singleton.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/AddTwoNumbers.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\MaxSubArray.java" afterPath="$PROJECT_DIR$/src/algorithm/array/MaxSubArray.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\SumOfkNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/array/SumOfkNumber.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\TopK.java" afterPath="$PROJECT_DIR$/src/algorithm/array/TopK.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\TwoSum.java" afterPath="$PROJECT_DIR$/src/algorithm/array/TwoSum.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\LesLength.java" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/LesLength.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\MatrixChain.java" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/MatrixChain.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\MaxProductSubstring.java" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/MaxProductSubstring.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\MaxSubArray.java" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/MaxSubArray.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/algorithm/array/AddTwoNumbers.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ContainsDuplicate.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ContainsDuplicate.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ContainsNearByDuplicate.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ContainsNearByDuplicate.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\CountPrimes.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/CountPrimes.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\DeleteNode.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/DeleteNode.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\HammingWeight.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/HammingWeight.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\HappyNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/HappyNumber.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\IntersectionOfTwoLinkedLists.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/IntersectionOfTwoLinkedLists.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\InvertTree.java" afterPath="$PROJECT_DIR$/src/algorithm/Tree/InvertTree.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\Isomorphic.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/Isomorphic.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/LongestPalindrome.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\LongestSubstring.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/LongestSubstring.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\LowestAncestorOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\MedianofTwoSortedArrays.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/MedianofTwoSortedArrays.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\PalindromeLinkedList.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PalindromeLinkedList.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\PalindromeNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PalindromeNumber.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\PowerOfTwo.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PowerOfTwo.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\PrintListReversely.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PrintListReversely.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\QueueUsingStacks.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/QueueUsingStacks.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\RemoveLinkedListElements.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/RemoveLinkedListElements.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ReverseBits.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ReverseBits.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ReverseInteger.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ReverseInteger.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ReverseList.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ReverseList.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\RomanToInteger.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/RomanToInteger.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\RotateArray.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/RotateArray.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\StackUingQueue.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/StackUingQueue.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\StringToInt.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/StringToInt.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\SummaryRanges.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/SummaryRanges.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\TitleToNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/TitleToNumber.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\TrailingZeroes.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/TrailingZeroes.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ZigZag.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ZigZag.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\twoSum.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/twoSum.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\ArrayUtils.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/ArrayUtils.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\BinaryInsertSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/BinaryInsertSort.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\BinaryLookUp.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/BinaryLookUp.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\BubbleSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/BubbleSort.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\BucketSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/BucketSort.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\InserSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/InserSort.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\MergeSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/MergeSort.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\MinHeap.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/MinHeap.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\MultikeyRadixSortTest.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/MultikeyRadixSortTest.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\QuickSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/QuickSort.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\SeclectSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/SeclectSort.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\ShellSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/ShellSort.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,15 +106,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="KnapSack.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/KnapSack.java">
+      <file leaf-file-name="LowestAncestorOfBinaryTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8037225" vertical-offset="0" max-vertical-offset="750">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="650">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeMaximumPathSum.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidateBinarySearchTree.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.20938024" vertical-offset="0" max-vertical-offset="597">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,13 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/leetcode/PalindromeNumber.java" />
-        <option value="$PROJECT_DIR$/src/sort/ArrayUtils.java" />
-        <option value="$PROJECT_DIR$/src/sort/SeclectSort.java" />
-        <option value="$PROJECT_DIR$/src/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/PalindromeLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/PowerOfTwo.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SummaryRanges.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Invert.java" />
         <option value="$PROJECT_DIR$/src/leetcode/InvertTree.java" />
@@ -97,6 +184,22 @@
         <option value="$PROJECT_DIR$/src/sort/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PrintListReversely.java" />
         <option value="$PROJECT_DIR$/src/dynamic/KnapSack.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/HouseRobber.java" />
+        <option value="$PROJECT_DIR$/src/dynamic/HouseRobber.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/MaximumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/IsValidBST.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/javalanguage/test.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/dynamic/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/array/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/sort/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/String/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/javalanguage/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -132,7 +235,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -164,6 +267,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javalanguage" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -179,41 +286,13 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dynamic" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".settings" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="algorithm" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,73 +310,82 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Application.PrintListReversely">
-    <configuration default="false" name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.QuickSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BucketSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.BucketSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MultikeyRadixSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.MultikeyRadixSortTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.ShellSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dynamic" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ubuntu\forgithub\leetcode\src\algorithm\Tree" />
+      <recent name="F:\ubuntu\forgithub\leetcode\src\algorithm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IsValidBST">
     <configuration default="false" name="PrintListReversely" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.PrintListReversely" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.HouseRobber" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="KnapSack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic.KnapSack" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MaximumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MaximumPathSum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IsValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.IsValidBST" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -339,6 +427,14 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <module name="" />
       <setting name="path" value="" />
@@ -352,12 +448,17 @@
       <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -385,19 +486,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -447,19 +535,6 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -480,20 +555,33 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.QuickSort" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BucketSort" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MultikeyRadixSortTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ShellSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PrintListReversely" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PrintListReversely" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HouseRobber" />
+      <item index="2" class="java.lang.String" itemvalue="Application.KnapSack" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MaximumPathSum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.IsValidBST" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PrintListReversely" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ShellSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MultikeyRadixSortTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BucketSort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.QuickSort" />
+        <item index="0" class="java.lang.String" itemvalue="Application.IsValidBST" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MaximumPathSum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.KnapSack" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HouseRobber" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PrintListReversely" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -521,25 +609,25 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32324323" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23027718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24040511" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23982398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -558,13 +646,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4288889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2227027" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -593,367 +681,106 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49342105" vertical-offset="0" max-vertical-offset="700">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5767013" vertical-offset="0" max-vertical-offset="925">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromeLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1953125" vertical-offset="0" max-vertical-offset="1475">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/PowerOfTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17045455" vertical-offset="0" max-vertical-offset="880">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/SummaryRanges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20184544" vertical-offset="0" max-vertical-offset="1350">
-          <caret line="7" column="85" selection-start-line="7" selection-start-column="85" selection-end-line="7" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/InvertTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7386364" vertical-offset="0" max-vertical-offset="880">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/QueueUsingStacks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2556818" vertical-offset="0" max-vertical-offset="1150">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Isomorphic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.115340255" vertical-offset="0" max-vertical-offset="1275">
-          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11363637" vertical-offset="0" max-vertical-offset="1200">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ContainsDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34602076" vertical-offset="0" max-vertical-offset="867">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ContainsNearByDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34602076" vertical-offset="0" max-vertical-offset="867">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LowestAncestorOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51903117" vertical-offset="0" max-vertical-offset="867">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveLinkedListElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6429652" vertical-offset="300" max-vertical-offset="1500">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/HappyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3043479" vertical-offset="0" max-vertical-offset="1125">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/IntersectionOfTwoLinkedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5279879" vertical-offset="726" max-vertical-offset="1575">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/StringToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92753625" vertical-offset="235" max-vertical-offset="1150">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/SeclectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/ArrayUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="700">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/BinaryInsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7032641" vertical-offset="226" max-vertical-offset="975">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="700">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/StringContain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2075">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/LeftShiftOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15128593" vertical-offset="0" max-vertical-offset="3850">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22692889" vertical-offset="50" max-vertical-offset="1125">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/StackUingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22848664" vertical-offset="96" max-vertical-offset="875">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/twoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22255193" vertical-offset="0" max-vertical-offset="850">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/HammingWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <caret line="9" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/CountPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32608697" vertical-offset="0" max-vertical-offset="850">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.615942" vertical-offset="25" max-vertical-offset="950">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/TitleToNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2647504" vertical-offset="75" max-vertical-offset="1000">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/TrailingZeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18545994" vertical-offset="0" max-vertical-offset="700">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/MaxProductSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21875" vertical-offset="4" max-vertical-offset="900">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwordOffer/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17045455" vertical-offset="0" max-vertical-offset="880">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15128593" vertical-offset="150" max-vertical-offset="1100">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/MatrixChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0144928" vertical-offset="0" max-vertical-offset="1700">
-          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/MaxSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1953125" vertical-offset="129" max-vertical-offset="1475">
-          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/CalcAllPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7020089" vertical-offset="904" max-vertical-offset="1800">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/instroduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25111607" vertical-offset="0" max-vertical-offset="896">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/BinaryLookUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65217394" vertical-offset="0" max-vertical-offset="800">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/MinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1300">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5072464" vertical-offset="0" max-vertical-offset="1325">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/BucketSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67391306" vertical-offset="210" max-vertical-offset="900">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/MultikeyRadixSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.108108" vertical-offset="0" max-vertical-offset="2075">
-          <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/InserSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="725">
-          <caret line="20" column="9" selection-start-line="14" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14688428" vertical-offset="401" max-vertical-offset="1100">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/DeleteNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323442" vertical-offset="1" max-vertical-offset="675">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6290801" vertical-offset="801" max-vertical-offset="1475">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/TopK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5574136" vertical-offset="225" max-vertical-offset="5825">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/PrintListReversely.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7212932" vertical-offset="1178" max-vertical-offset="2075">
-          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.1574395" vertical-offset="2175" max-vertical-offset="23475">
           <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17211704" vertical-offset="0" max-vertical-offset="581">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/KnapSack.java">
+    <entry file="file://$PROJECT_DIR$/src/javalanguage/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8037225" vertical-offset="0" max-vertical-offset="750">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.25817555" vertical-offset="0" max-vertical-offset="581">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1125">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/array/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/dynamic/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/String/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javalanguage/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="650">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20938024" vertical-offset="0" max-vertical-offset="597">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
