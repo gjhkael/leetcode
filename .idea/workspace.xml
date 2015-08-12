@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5ec06c8-9ade-4ab5-b214-1bc44db2c37d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeAll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeMaximumPathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ContainsNearByAlmostDuplicate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javalanguage/FinalMethodTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/HasPathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/IsSameTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/IsSymmetric.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/Isbalanced.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/LevelOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/LevelOrderBottom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/MinStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javalanguage/Set2Map.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/TrappingRainWater.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ValidParentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/ValidateBinarySearchTree.java" />
-      <change type="DELETED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\leetcode\IsValidBST.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/String/LeftShiftOne.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LeftShiftOne.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/String/LongestSubstring.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LongestSubstring.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c5ec06c8-9ade-4ab5-b214-1bc44db2c37d" name="Default" comment="" />
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,8 +46,8 @@
       <file leaf-file-name="TrappingRainWater.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/TrappingRainWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1884058" vertical-offset="306" max-vertical-offset="1225">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.1328125" vertical-offset="306" max-vertical-offset="1225">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -224,28 +201,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -581,7 +536,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -953,8 +908,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/TrappingRainWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1884058" vertical-offset="306" max-vertical-offset="1225">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.1328125" vertical-offset="306" max-vertical-offset="1225">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding />
         </state>
       </provider>
