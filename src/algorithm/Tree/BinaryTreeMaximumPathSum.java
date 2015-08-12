@@ -1,4 +1,6 @@
-package algorithm.leetcode;
+package algorithm.Tree;
+
+import algorithm.leetcode.Utils;
 
 /**
  * 求一个二叉数的路径，使其和最大
@@ -24,3 +26,4 @@ public class BinaryTreeMaximumPathSum {
     }
     private int maxValue=Integer.MIN_VALUE;
 }
+

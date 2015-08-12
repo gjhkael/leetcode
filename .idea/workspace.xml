@@ -2,88 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5ec06c8-9ade-4ab5-b214-1bc44db2c37d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/HouseRobber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/HouseRobber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/String/Introduction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/Introduction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/array/Introduction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/Introduction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/Introduction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/sort/Introduction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javalanguage/Introduction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/InvertTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/IsValidBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/KnapSack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/LowestAncestorOfBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/MaximumPathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javalanguage/test.java" />
-      <change type="DELETED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\KnapSack.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeAll.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeMaximumPathSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ContainsNearByAlmostDuplicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javalanguage/FinalMethodTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/HasPathSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/IsSameTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/IsSymmetric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/Isbalanced.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/LevelOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/LevelOrderBottom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/MinStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javalanguage/Set2Map.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/TrappingRainWater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ValidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Tree/ValidateBinarySearchTree.java" />
+      <change type="DELETED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\leetcode\IsValidBST.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/String/LeftShiftOne.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LeftShiftOne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/String/LongestSubstring.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LongestSubstring.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\CalcAllPermutation.java" afterPath="$PROJECT_DIR$/src/algorithm/String/CalcAllPermutation.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\LeftShiftOne.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LeftShiftOne.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LongestPalindrome.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\LongestSubstring.java" afterPath="$PROJECT_DIR$/src/algorithm/String/LongestSubstring.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\Palindrome.java" afterPath="$PROJECT_DIR$/src/algorithm/String/Palindrome.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\StrToInt.java" afterPath="$PROJECT_DIR$/src/algorithm/String/StrToInt.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\StringContain.java" afterPath="$PROJECT_DIR$/src/algorithm/String/StringContain.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\String\instroduce.java" afterPath="$PROJECT_DIR$/src/algorithm/String/instroduce.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\SwordOffer\MatrixFind.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/MatrixFind.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\SwordOffer\Singleton.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/Singleton.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/AddTwoNumbers.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\MaxSubArray.java" afterPath="$PROJECT_DIR$/src/algorithm/array/MaxSubArray.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\SumOfkNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/array/SumOfkNumber.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\TopK.java" afterPath="$PROJECT_DIR$/src/algorithm/array/TopK.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\array\TwoSum.java" afterPath="$PROJECT_DIR$/src/algorithm/array/TwoSum.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\LesLength.java" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/LesLength.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\MatrixChain.java" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/MatrixChain.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\MaxProductSubstring.java" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/MaxProductSubstring.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\dynamic\MaxSubArray.java" afterPath="$PROJECT_DIR$/src/algorithm/dynamic/MaxSubArray.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\AddTwoNumbers.java" afterPath="$PROJECT_DIR$/src/algorithm/array/AddTwoNumbers.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ContainsDuplicate.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ContainsDuplicate.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ContainsNearByDuplicate.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ContainsNearByDuplicate.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\CountPrimes.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/CountPrimes.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\DeleteNode.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/DeleteNode.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\HammingWeight.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/HammingWeight.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\HappyNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/HappyNumber.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\IntersectionOfTwoLinkedLists.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/IntersectionOfTwoLinkedLists.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\InvertTree.java" afterPath="$PROJECT_DIR$/src/algorithm/Tree/InvertTree.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\Isomorphic.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/Isomorphic.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/LongestPalindrome.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\LongestSubstring.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/LongestSubstring.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\LowestAncestorOfBinaryTree.java" afterPath="$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\MedianofTwoSortedArrays.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/MedianofTwoSortedArrays.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\PalindromeLinkedList.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PalindromeLinkedList.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\PalindromeNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PalindromeNumber.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\PowerOfTwo.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PowerOfTwo.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\PrintListReversely.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PrintListReversely.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\QueueUsingStacks.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/QueueUsingStacks.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\RemoveLinkedListElements.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/RemoveLinkedListElements.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ReverseBits.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ReverseBits.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ReverseInteger.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ReverseInteger.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ReverseList.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ReverseList.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\RomanToInteger.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/RomanToInteger.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\RotateArray.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/RotateArray.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\StackUingQueue.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/StackUingQueue.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\StringToInt.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/StringToInt.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\SummaryRanges.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/SummaryRanges.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\TitleToNumber.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/TitleToNumber.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\TrailingZeroes.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/TrailingZeroes.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\ZigZag.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/ZigZag.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\leetcode\twoSum.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/twoSum.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\ArrayUtils.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/ArrayUtils.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\BinaryInsertSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/BinaryInsertSort.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\BinaryLookUp.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/BinaryLookUp.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\BubbleSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/BubbleSort.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\BucketSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/BucketSort.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\InserSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/InserSort.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\MergeSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/MergeSort.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\MinHeap.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/MinHeap.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\MultikeyRadixSortTest.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/MultikeyRadixSortTest.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\QuickSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/QuickSort.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\SeclectSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/SeclectSort.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\sort\ShellSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/ShellSort.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,31 +46,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LowestAncestorOfBinaryTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java">
+      <file leaf-file-name="MinStack.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/MinStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="650">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="1225">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeMaximumPathSum.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java">
+      <file leaf-file-name="ValidParentheses.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="1200">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidateBinarySearchTree.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java">
+      <file leaf-file-name="TrappingRainWater.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/TrappingRainWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20938024" vertical-offset="0" max-vertical-offset="597">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.1884058" vertical-offset="306" max-vertical-offset="1225">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -149,25 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/SummaryRanges.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Invert.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/InvertTree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/QueueUsingStacks.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Isomorphic.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ReverseList.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ContainsDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ContainsNearByDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/StackUingQueue.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LowestAncestorOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/DeleteNode.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/RomanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/CountPrimes.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/RemoveLinkedListElements.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/HappyNumber.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/IntersectionOfTwoLinkedLists.java" />
-        <option value="$PROJECT_DIR$/src/array/TopK.java" />
-        <option value="$PROJECT_DIR$/src/sort/InserSort.java" />
-        <option value="$PROJECT_DIR$/src/sort/BinaryInsertSort.java" />
         <option value="$PROJECT_DIR$/src/leetcode/HammingWeight.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ReverseBits.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RotateArray.java" />
@@ -198,8 +119,27 @@
         <option value="$PROJECT_DIR$/src/algorithm/String/Introduction.java" />
         <option value="$PROJECT_DIR$/src/javalanguage/Introduction.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/Utils.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/String/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/String/LeftShiftOne.java" />
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeMaximumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/ValidateBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/test.java" />
+        <option value="$PROJECT_DIR$/src/javalanguage/Set2Map.java" />
+        <option value="$PROJECT_DIR$/src/javalanguage/FinalMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/IsSameTree.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/HasPathSum.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/IsSymmetric.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/LevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/LevelOrderBottom.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/Isbalanced.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/ContainsNearByAlmostDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeAll.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/TrappingRainWater.java" />
       </list>
     </option>
   </component>
@@ -236,6 +176,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -267,8 +208,22 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javalanguage" />
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,10 +244,13 @@
               <option name="myItemId" value="algorithm" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,9 +267,12 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.Tree" />
       <recent name="dynamic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -319,9 +280,9 @@
       <recent name="F:\ubuntu\forgithub\leetcode\src\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsValidBST">
-    <configuration default="false" name="PrintListReversely" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.PrintListReversely" />
+  <component name="RunManager" selected="Application.TrappingRainWater">
+    <configuration default="false" name="BinaryTreeAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Tree.BinaryTreeAll" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -336,8 +297,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.HouseRobber" />
+    <configuration default="false" name="LevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Tree.LevelOrder" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -352,8 +313,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="KnapSack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamic.KnapSack" />
+    <configuration default="false" name="LevelOrderBottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Tree.LevelOrderBottom" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -368,8 +329,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="MaximumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MaximumPathSum" />
+    <configuration default="false" name="ContainsNearByAlmostDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.ContainsNearByAlmostDuplicate" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -384,8 +345,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="IsValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.IsValidBST" />
+    <configuration default="false" name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.TrappingRainWater" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -427,14 +388,6 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <module name="" />
       <setting name="path" value="" />
@@ -448,17 +401,12 @@
       <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -486,6 +434,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -535,6 +496,19 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -555,33 +529,37 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
+    <configuration default="false" name="ValidParentheses" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.ValidParentheses" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrintListReversely" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HouseRobber" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KnapSack" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MaximumPathSum" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IsValidBST" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.ValidParentheses" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeAll" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LevelOrder" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LevelOrderBottom" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ContainsNearByAlmostDuplicate" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TrappingRainWater" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.IsValidBST" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MaximumPathSum" />
-        <item index="2" class="java.lang.String" itemvalue="Application.KnapSack" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HouseRobber" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrintListReversely" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TrappingRainWater" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeAll" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ContainsNearByAlmostDuplicate" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LevelOrderBottom" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LevelOrder" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -602,32 +580,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32324323" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24040511" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23982398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.304371" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32324323" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32756758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -646,13 +624,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4288889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2227027" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2227027" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -673,7 +651,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -681,6 +659,58 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="1225">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="1200">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/TrappingRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1225">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ContainsNearByAlmostDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="900">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1475">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/IsSymmetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="1975">
+          <caret line="13" column="35" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="1350">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.1574395" vertical-offset="2175" max-vertical-offset="23475">
@@ -692,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17211704" vertical-offset="0" max-vertical-offset="581">
           <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25817555" vertical-offset="0" max-vertical-offset="581">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1125">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,30 +778,183 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12908778" vertical-offset="0" max-vertical-offset="581">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="650">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/String/LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5393635" vertical-offset="503" max-vertical-offset="1100">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/String/LeftShiftOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5945946" vertical-offset="3295" max-vertical-offset="3850">
+          <caret line="147" column="13" selection-start-line="147" selection-start-column="13" selection-end-line="147" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/BinaryTreeMaximumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.14814815" vertical-offset="0" max-vertical-offset="800">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ValidateBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20938024" vertical-offset="0" max-vertical-offset="597">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.69754463" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_60/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33281735" vertical-offset="4235" max-vertical-offset="6925">
+          <caret line="215" column="19" selection-start-line="215" selection-start-column="19" selection-end-line="215" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javalanguage/Set2Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8345979" vertical-offset="900" max-vertical-offset="2750">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javalanguage/FinalMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1375">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/ValidateBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="1150">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/LowestAncestorOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeMaximumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7352941" vertical-offset="150" max-vertical-offset="875">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/HasPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="775">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1475">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/InvertTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6417411" vertical-offset="0" max-vertical-offset="896">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/LevelOrderBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1250">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/IsSameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.121306375" vertical-offset="253" max-vertical-offset="925">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/Isbalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2332815" vertical-offset="0" max-vertical-offset="700">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ContainsNearByAlmostDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/IsSymmetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66367716" vertical-offset="1306" max-vertical-offset="1975">
+          <caret line="70" column="5" selection-start-line="30" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/InvertTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7279522" vertical-offset="13" max-vertical-offset="850">
+          <caret line="20" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/LowestAncestorOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67264575" vertical-offset="0" max-vertical-offset="669">
+          <caret line="18" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54375" vertical-offset="15002" max-vertical-offset="18200">
+          <caret line="614" column="20" selection-start-line="614" selection-start-column="20" selection-end-line="614" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="1200">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/TrappingRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1884058" vertical-offset="306" max-vertical-offset="1225">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
