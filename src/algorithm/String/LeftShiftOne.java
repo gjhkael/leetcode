@@ -122,7 +122,11 @@ public class LeftShiftOne {
 			System.out.println(re.data);
 			re=re.next;
 		}*/
+<<<<<<< HEAD
 	Node re=ListRotateWithN(start,2);
+=======
+	    Node re=ListRotateWithN(start,2);
+>>>>>>> 291835b179566de7b5923868e2546a0c3a3ea402
 		while(re!=null){
 			System.out.println(re.data);
 			re=re.next;
