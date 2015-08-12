@@ -41,10 +41,10 @@ public class LeftShiftOne {
 	
 	//1、链表翻转。给出一个链表和一个数k，比如，链表为1→2→3→4→5→6，k=2，则翻转后2→1→6→5→4→3，若k=3，翻转后3→2→1→6→5→4，若k=4，翻转后4→3→2→1→6→5，用程序实现。
 	
-	public static String.Node ListRotate(String.Node start, String.Node end){
-		String.Node pre=null;
-		String.Node cur=start;
-		String.Node next=cur.next;
+	public static Node ListRotate(Node start, Node end){
+		Node pre=null;
+		Node cur=start;
+		Node next=cur.next;
 		while(cur!=end){
 			next=cur.next;
 			cur.next=pre;
@@ -54,13 +54,13 @@ public class LeftShiftOne {
 		return pre;
 	}
 	
-	public static String.Node ListRotateWithN(String.Node list,int n){
-		String.Node mid=list;
+	public static Node ListRotateWithN(Node list,int n){
+		Node mid=list;
 		for(int i=1;i<=n;i++){
 			mid=mid.next;
 		}
-		String.Node l=ListRotate(list,mid);
-		String.Node r=ListRotate(mid,null);
+		Node l=ListRotate(list,mid);
+		Node r=ListRotate(mid,null);
 		list.next=r;
 		return l;
 	}
@@ -113,16 +113,16 @@ public class LeftShiftOne {
 		leftRotateChar(s,2);
 		System.out.println(s);
 		
-		String.Node start=new String.Node(1);
-		start.next=new String.Node(2);
-		start.next.next=new String.Node(3);
+		Node start=new Node(1);
+		start.next=new Node(2);
+		start.next.next=new Node(3);
 		
 		/*Node re=ListRotate(start,start.next.next);
 		while(re!=null){
 			System.out.println(re.data);
 			re=re.next;
 		}*/
-		String.Node re=ListRotateWithN(start,2);
+	    Node re=ListRotateWithN(start,2);
 		while(re!=null){
 			System.out.println(re.data);
 			re=re.next;
@@ -141,10 +141,10 @@ class Node{
 	public Node(int data){
 		this(data, null);
 	}
-	public Node(int data, String.Node next){
+	public Node(int data, Node next){
 		this.data=data;
 		this.next=next;
 	}
     int data;
-	String.Node next;
+	Node next;
 }

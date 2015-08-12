@@ -32,7 +32,7 @@ public class LongestSubstring {
 	    }
 	
 	public static void main(String[] args){
-		int result=new String.LongestSubstring().lengthOfLongestSubstring("qjgjtsfltqpbkpx");
+		int result=new LongestSubstring().lengthOfLongestSubstring("qjgjtsfltqpbkpx");
 		
 		System.out.println(result);
 	}
