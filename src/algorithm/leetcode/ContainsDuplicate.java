@@ -17,6 +17,7 @@ public class ContainsDuplicate {
             else
                 tmp.put(nums[i],1);
         }
+
         return false;
     }
 }
