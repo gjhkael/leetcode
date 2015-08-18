@@ -34,6 +34,7 @@ public class BinaryTreeAll{
             this.val=val;
         }
     }
+
     /*求二叉树中的节点个数
      *递归解法
      */
@@ -68,6 +69,7 @@ public class BinaryTreeAll{
     public static int max(int a,int b){
         return a>b?a:b;
     }
+
     public static int depthOfTree(TreeNode root){
         if(root==null)
             return 0;
@@ -366,7 +368,6 @@ public class BinaryTreeAll{
         if(r1==null && r2==null){
             return true;
         }
-
         // 如果有一棵树是空树，另一颗不是，则返回false
         if(r1==null || r2==null){
             return false;
@@ -402,13 +403,11 @@ public class BinaryTreeAll{
         if(root == null){
             return null;
         }
-
         Stack<TreeNode> stack = new Stack<TreeNode>();
         Stack<TreeNode> newStack = new Stack<TreeNode>();
         stack.push(root);
         TreeNode newRoot = new TreeNode(root.val);
         newStack.push(newRoot);
-
         while( !stack.isEmpty() ){
             TreeNode cur = stack.pop();
             TreeNode newCur = newStack.pop();
@@ -674,49 +673,14 @@ public class BinaryTreeAll{
     private static class Pair{
         int height;             // 树的高度
         boolean isFull;     // 是否是个满树
-
         public Pair(int height, boolean isFull) {
             this.height = height;
             this.isFull = isFull;
         }
-
         public boolean equalsTo(Pair obj){
             return this.height==obj.height && this.isFull==obj.isFull;
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }
