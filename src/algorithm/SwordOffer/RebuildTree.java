@@ -22,8 +22,8 @@ public class RebuildTree {
     public static void main(String[] args){
         List<Integer> pre=new ArrayList<Integer>(Arrays.asList(8,6,5,7,9));
         List<Integer> order=new ArrayList<Integer>(Arrays.asList(5,6,7,8,9));
-        TreeNode root=rebuildBinaryTreeRec(pre,order);
-        System.out.println(root.val);
+        TreeNode root=rebuildTree(pre,order);
+        System.out.println(root.val+" "+root.left.val);
 
     }
 
@@ -41,8 +41,34 @@ public class RebuildTree {
 
             leftPreOrder = preOrder.subList(1, leftInOrder.size()+1);
             rightPreOrder = preOrder.subList(leftInOrder.size()+1,preOrder.size());
-            rebuildBinaryTreeRec(leftPreOrder,leftInOrder);
-            rebuildBinaryTreeRec(rightPreOrder,rightInOrder);
+            root.left=rebuildBinaryTreeRec(leftPreOrder,leftInOrder);
+            root.right=rebuildBinaryTreeRec(rightPreOrder,rightInOrder);
+        }
+        return root;
+    }
+
+
+    public static TreeNode rebuildTree(List<Integer>pre,List<Integer>inOrder){
+        if(pre==null || inOrder==null){
+            return null;
+        }
+
+        TreeNode root=null;
+        List<Integer> leftPreOrder;
+        List<Integer> rightPreOrder;
+        List<Integer> leftInOrder;
+        List<Integer> rightInOrder;
+        if(pre.size()!=0 && inOrder.size()!=0){
+            root=new TreeNode(pre.get(0));
+            int indexOfRoot=inOrder.indexOf(pre.get(0));
+            leftInOrder=inOrder.subList(0,indexOfRoot);
+            rightInOrder=inOrder.subList(indexOfRoot+1,inOrder.size());
+
+            leftPreOrder=pre.subList(1,leftInOrder.size()+1);
+            rightPreOrder=pre.subList(leftInOrder.size()+1,pre.size());
+
+            root.left=rebuildTree(leftPreOrder,leftInOrder);
+            root.right=rebuildTree(rightPreOrder,rightInOrder);
         }
         return root;
     }
