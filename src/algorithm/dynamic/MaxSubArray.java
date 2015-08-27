@@ -3,6 +3,7 @@ package algorithm.dynamic;
 /**
  * Created by hy on 2015/7/30.
  */
+//最大子数组
 public class MaxSubArray {
     public static void main(String[] args) {
         int test[]=new int[]{-9, -2, -3, -5, -6};
