@@ -161,22 +161,22 @@ public class TopK {
 		for(Integer t:result){
 			System.out.print(t+" ");
 		}*/
-	    /*TopK.quickSelect(test, 0, 99,5);
+	    TopK.quickSelect(test, 0, 99,5);
 		for(Integer t:test){
 			System.out.print(t+" ");
-		}*/
-		int []t=new int[100];
+		}
+		/*int []t=new int[100];
 		for(int i=0;i<=99;i++){
 			t[i]=(int)(Math.random()*100);
 		//	System.out.println(t[i]);
-		}
+		}*/
 		
 		//MinHeap min=new MinHeap(t);
 		
-		int[] top=topK2(t,5);
+		/*int[] top=topK2(t,5);
 		for(int i=0;i<5;i++){
 			System.out.println(top[i]);
-		}
+		}*/
 		
 		
 		

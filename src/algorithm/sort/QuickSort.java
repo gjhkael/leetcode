@@ -41,4 +41,63 @@ public class QuickSort {
         if(right>i)
             quickSort(array,i,right);//对右边的数再进行基准数左右分开
     }
+
+
+//    public static void quicksort(int n[], int left, int right) {
+//        int dp;
+//        if (left < right) {
+//            dp = partition(n, left, right);
+//            quicksort(n, left, dp - 1);
+//            quicksort(n, dp + 1, right);
+//        }
+//    }
+//
+//    public static int partition(int n[], int left, int right) {
+//        int pivot = n[left];
+//        while (left < right) {
+//            while (left < right && n[right] >= pivot)
+//                right--;
+//            if (left < right)
+//                n[left++] = n[right];
+//            while (left < right && n[left] <= pivot)
+//                left++;
+//            if (left < right)
+//                n[right--] = n[left];
+//        }
+//        n[left] = pivot;
+//        return left;
+//    }
+
+    public static void quicksort(int[] nums,int left,int right){
+        int dp;
+        if(left<right){
+            dp=partition(nums,left,right);
+            quickSort(nums,left,dp-1);
+            quickSort(nums,dp+1,right);
+        }
+    }
+
+    public static int partition(int[] nums,int left, int right){
+        int pivot=nums[left];
+        while(left<right){
+            while(left<right&& nums[right]>=pivot){
+                right--;
+            }
+            if(left<right){
+                nums[left++]=nums[right];
+            }
+            while(left<right&&nums[left]<pivot){
+                left++;
+            }
+            if(left<right){
+                nums[right--]=nums[left];
+            }
+        }
+        nums[left]=pivot;
+        return left;
+    }
+
+
+
+
 }

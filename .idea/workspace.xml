@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3387f6b-1ae7-447c-a360-4900072ad44d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/AddBinary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/AddDigits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/sort/BinarySearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/CountDigitOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/IsUlgNumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/MyPow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/MySqrt.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/NthUglyNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/PlusOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/PostOrderPrintList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/QueueUsingStacks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/ReplaceBlank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/StacksUsingQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/LRUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/WordDictionary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/findKthLargest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/SwordOffer/MatrixFind.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/MatrixFind.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/SwordOffer/RebuildTree.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/RebuildTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/algorithm/sort/QuickSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/array/TopK.java" afterPath="$PROJECT_DIR$/src/algorithm/array/TopK.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javalanguage/test.java" afterPath="$PROJECT_DIR$/src/javalanguage/test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -41,21 +32,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ConvertBSTDll.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll.java">
+      <file leaf-file-name="TopK.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/array/TopK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7898305" vertical-offset="441" max-vertical-offset="1349">
-              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="4427">
+              <caret line="130" column="28" selection-start-line="76" selection-start-column="4" selection-end-line="130" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
+      <file leaf-file-name="test.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javalanguage/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="950">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.15011287" vertical-offset="0" max-vertical-offset="886">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Set2Map.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javalanguage/Set2Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1748">
+              <caret line="15" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -94,20 +95,27 @@
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/CountDigitOne.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/MatrixFind.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/ReplaceBlank.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/PostOrderPrintList.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/RebuildTree.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/QueueUsingStacks.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/StacksUsingQueue.java" />
         <option value="$PROJECT_DIR$/src/algorithm/sort/BInarySearch.java" />
         <option value="$PROJECT_DIR$/src/algorithm/sort/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/WordDictionary.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/array/TopK.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/leetcode/findKthLargest.java" />
+        <option value="$PROJECT_DIR$/src/javalanguage/test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="24" />
-    <option name="width" value="1920" />
-    <option name="height" value="1032" />
+    <option name="width" value="1922" />
+    <option name="height" value="1033" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -135,6 +143,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,15 +151,9 @@
               <option name="myItemId" value="leetcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -160,28 +163,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -199,12 +180,30 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
+              <option name="myItemId" value="javalanguage" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SwordOffer" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javalanguage" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Set2Map.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -222,17 +221,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sort" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,9 +241,9 @@
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/easyinfoo" />
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration default="false" name="ReplaceBlank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.ReplaceBlank" />
+  <component name="RunManager" selected="Application.findKthLargest">
+    <configuration default="false" name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.sort.QuickSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -264,8 +258,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="PostOrderPrintList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.PostOrderPrintList" />
+    <configuration default="false" name="ConvertBSTDll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.ConvertBSTDll" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -280,8 +274,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="RebuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.RebuildTree" />
+    <configuration default="false" name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.LRUCache" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -296,8 +290,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.sort.BinarySearch" />
+    <configuration default="false" name="findKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.findKthLargest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -318,8 +312,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.sort.QuickSort" />
+    <configuration default="false" name="TopK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.array.TopK" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -503,19 +497,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ReplaceBlank" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PostOrderPrintList" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RebuildTree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BinarySearch" />
-      <item index="4" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="0" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ConvertBSTDll" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LRUCache" />
+      <item index="3" class="java.lang.String" itemvalue="Application.findKthLargest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TopK" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.QuickSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinarySearch" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RebuildTree" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PostOrderPrintList" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReplaceBlank" />
+        <item index="0" class="java.lang.String" itemvalue="Application.findKthLargest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TopK" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LRUCache" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ConvertBSTDll" />
+        <item index="4" class="java.lang.String" itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -536,17 +530,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1032" extended-state="1" />
+    <frame x="-1" y="24" width="1922" height="1033" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32785088" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39868566" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -555,8 +549,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2196162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1540107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21884984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972618" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -591,44 +585,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1349">
-          <caret line="64" column="5" selection-start-line="35" selection-start-column="3" selection-end-line="64" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="950">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/PostOrderPrintList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="646">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="232" max-vertical-offset="1349">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/FourSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/CopyRandomList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="423" max-vertical-offset="1178">
@@ -909,13 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30645162" vertical-offset="0" max-vertical-offset="744">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/sort/BinaryLookUp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40860215" vertical-offset="0" max-vertical-offset="744">
@@ -930,18 +879,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="149" max-vertical-offset="950">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding />
+        <state vertical-scroll-proportion="0.36497176" vertical-offset="0" max-vertical-offset="1938">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7898305" vertical-offset="441" max-vertical-offset="1349">
-          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1387">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/WordDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4153498" vertical-offset="0" max-vertical-offset="1368">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50911856" vertical-offset="1071" max-vertical-offset="2071">
+          <caret line="74" column="38" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4224924" vertical-offset="7" max-vertical-offset="665">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/findKthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4331307" vertical-offset="0" max-vertical-offset="1140">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/array/TopK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="4427">
+          <caret line="130" column="28" selection-start-line="76" selection-start-column="4" selection-end-line="130" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javalanguage/Set2Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1748">
+          <caret line="15" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javalanguage/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15011287" vertical-offset="0" max-vertical-offset="886">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>
