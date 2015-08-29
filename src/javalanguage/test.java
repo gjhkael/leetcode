@@ -8,6 +8,8 @@ public class test {
 
         int []test={1,2,-3,4,5,16,10};
         System.out.println(houseRobber2(test));
+        Class s=test.getClass();
+        new test().getClass();
     }
 
 
