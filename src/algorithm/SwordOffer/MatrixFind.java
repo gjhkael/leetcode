@@ -11,8 +11,6 @@ public class MatrixFind {
         System.out.println(matrixFind(test,8));
 
     }
-
-
     public static boolean matrixFind(int[][]array,int target){
         if(array.length==0||array==null)
             return false;
@@ -25,7 +23,6 @@ public class MatrixFind {
                 rows++;
             else
                 columns--;
-
         }
         return false;
     }

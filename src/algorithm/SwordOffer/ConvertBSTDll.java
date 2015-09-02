@@ -3,7 +3,7 @@ package algorithm.SwordOffer;
 /**
  * Created by hy on 2015/8/18.
  */
-public class ConvertBSTDll {
+public abstract class ConvertBSTDll {
     private static class TreeNode{
         TreeNode left;
         TreeNode right;
@@ -32,9 +32,12 @@ public class ConvertBSTDll {
             System.out.println(root.val);
             root=root.right;
         }
+
+
     }
     public static TreeNode convertBST(TreeNode root){
         root=convertBSTDll(root);
+
         while(root.left!=null){
             root=root.left;
         }
