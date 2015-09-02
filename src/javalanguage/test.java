@@ -13,7 +13,12 @@ public class test {
     }
 
 
-    public static int houseRobber2(int[] nums){
+    public static   int houseRobber2(int[] nums){
+
+
+
+
+
         if(nums.length==0||nums==null)
             return 0;
         int preYes=0;
@@ -29,4 +34,5 @@ public class test {
         }
         return Math.max(preYes,preNo);
     }
+
 }

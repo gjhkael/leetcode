@@ -59,6 +59,7 @@ public class MultikeyRadixSortTest {
         for(int j=0;j<d;j++) {                          //进行d次排序
             for (int i = 0; i < array.length; i++) {   //每个基数进行一次n排序
                 int tmp = array[i] %(int)Math.pow(10,j+1)/(int)Math.pow(10,j);
+                System.out.println(tmp);
                 lists.get(tmp).add(array[i]);
             }
             int count=0;
@@ -68,10 +69,6 @@ public class MultikeyRadixSortTest {
                 }
                 lists.get(i).clear();    //这里需要清空数组，否则容易出错
             }
-
         }
     }
-
-
-
 }
