@@ -3,7 +3,7 @@ package algorithm.sort;
 /**
  * Created by hy on 2015/7/28.
  */
-public class BinaryInsertSort {
+public class BinaryInsertSort{
     public static void main(String[] args){
         int[] data5 = new int[] { 5, 3, 6, 2, 1, 9, 4, 8, 7 };
         ArrayUtils.printArray(data5);
