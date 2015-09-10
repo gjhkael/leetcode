@@ -10,7 +10,6 @@ import java.util.Set;
 public class WordBreak {
     public static void main(String[]args){
         Set<String> s=new HashSet<String>();
-
         System.out.println(new WordBreak().wordBreak("leetcode",s));
     }
     public static boolean wordBreak(String s,Set<String> dict){
@@ -18,7 +17,7 @@ public class WordBreak {
         Arrays.fill(f,false);
         f[0]=true;
         for(int i=1;i<=s.length();i++){
-            for(int j=0;j<i;j++){
+            for(int j=0;j<i;j++){   //如果在j处刚好是存在单词在单词集中，并且j-i位置的切割也在单词集中，那么f[i]为true
                 if(f[j]&&dict.contains(s.substring(j,i))){
                     f[i]=true;
                     break;

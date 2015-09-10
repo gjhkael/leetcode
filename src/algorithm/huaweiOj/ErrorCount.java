@@ -1,63 +1,73 @@
 package algorithm.huaweiOj;
+import java.util.Scanner;
+import java.util.ArrayList;
 
-import java.util.*;
-
-/**
- * Created by hy on 2015/9/9.
- */
 public class ErrorCount {
-
-    public static void main(String[] args){
-        HashMap<String,Integer> result = new HashMap<String,Integer>();
-        int count=0;
-        Scanner scan = new Scanner(System.in);
-        while(scan.hasNext()) {
-            if(!scan.hasNext()){
-                scan.close();
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        Scanner s = new Scanner(System.in);
+        ArrayList<String> name = new ArrayList<String>();
+        ArrayList<Integer> line = new ArrayList<Integer>();
+        ArrayList<Integer> numbers =new ArrayList<Integer>();
+        while(s.hasNextLine()){
+            String str = s.next();
+            if(!s.hasNext()){
+                s.close();
                 break;
             }
-            String s = scan.nextLine();
-            if(s.equals(" "))
-                break;
-            String[] nums = s.split(" ");
-            String[] path = nums[0].split("\\\\");
-            String last = path[path.length - 1];
-            if (last.length() > 16) {
-                last = last.substring(last.length() - 16, last.length());
-            }
-            last = last + " " + nums[1];
-            if (result.containsKey(last)) {
-                result.put(last, result.get(last) + 1);
-            } else {
-                if (count >= 8) {
-                    continue;
+            int num = s.nextInt();
+            int index = str.lastIndexOf("\\");
+            String strName = str.substring(index + 1, str.length());
+            boolean falg = false;
+            int same = -1;
+            for(int j = 0; j < line.size(); j ++){
+                if(name.get(j).equals(new String(strName)) && line.get(j).equals(num)){
+                    falg = true;
+                    same = j;
                 }
-                result.put(last, 1);
-                count++;
             }
-
+            if(falg){
+                int newTime = numbers.get(same) + 1;
+                numbers.set(same, newTime);
+            }else{
+                name.add(new String(strName));
+                line.add(num);
+                numbers.add(1);
+            }
+            s.nextLine();
         }
-        ArrayList<String> keys = new ArrayList<String>(result.keySet());
-        ByValueComparator bvc = new ByValueComparator(result);
-        Collections.sort(keys, bvc);
-
-        for(String s: result.keySet()){
-            System.out.println(s+" "+result.get(s));
+        for(int i = 0; i < numbers.size() - 1; i ++){
+            int maxTime = numbers.get(i);
+            int maxLin = line.get(i);
+            String max = name.get(i);
+            for(int j = i + 1; j < numbers.size(); j ++){
+                if(numbers.get(j) > maxTime){
+                    maxTime = numbers.get(j);
+                    maxLin = line.get(j);
+                    max = name.get(j);
+                    for(int k = j; k > i; k --){
+                        numbers.set(k, numbers.get(k - 1));
+                        line.set(k, line.get(k -1));
+                        name.set(k, name.get(k - 1));
+                    }
+                    numbers.set(i, maxTime);
+                    line.set(i, maxLin);
+                    name.set(i, max);
+                }
+            }
         }
+        for(int i = 0; i < (numbers.size() > 8 ? 8 : numbers.size()); i ++){
+            StringBuffer result;
+            if(name.get(i).length() > 16){
+                result =new StringBuffer(name.get(i).substring(name.get(i).length() - 16, name.get(i).length()));
+            }else{
+                result =new StringBuffer(name.get(i));
+            }
+            result.append(" ").append(line.get(i)).append(" ").append(numbers.get(i));
+            System.out.println(result.toString());
+        }
+        s.close();
+
     }
-}
-class ByValueComparator implements Comparator<String>{
-    HashMap<String,Integer> base_map;
-    public ByValueComparator(HashMap<String,Integer> map){
-        this.base_map = map;
-    }
-    @Override
-    public int compare(String o1, String o2) {
-        if(!base_map.containsKey(o1) || !base_map.containsKey(o2))
-            return 0;
-        if(base_map.get(o1)<base_map.get(o2)){
-            return 1;
-        }else
-            return -1;
-    }
+
 }
