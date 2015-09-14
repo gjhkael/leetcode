@@ -16,10 +16,6 @@ public class ShellSort {
             h=h*3+1;
         }
         while(h>0){
-            System.out.println(h);
-
-
-
             for(int i=h;i<data.length;i+=h){
                 if (data[i] < data[i - h]) {
                     int tmp = data[i];
@@ -31,7 +27,6 @@ public class ShellSort {
                     data[j + h] = tmp;
                 }
             }
-            ArrayUtils.printArray(data);
             h=(h-1)/3;
         }
     }

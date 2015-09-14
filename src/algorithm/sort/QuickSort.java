@@ -8,7 +8,7 @@ public class QuickSort {
     public static void main(String[] args){
         int[] data5 = new int[] { 5, 3, 6, 2, 1, 9, 4, 8, 7 };
         ArrayUtils.printArray(data5);
-        quickSort(data5,0,8);
+        quicksort(data5,0,8);
         ArrayUtils.printArray(data5);
     }
 

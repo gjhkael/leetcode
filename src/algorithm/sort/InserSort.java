@@ -16,6 +16,8 @@ public class InserSort {
             for(int j=i;j>0;j--){
                 if(data[j]<data[j-1]){
                     ArrayUtils.swap(data, j - 1, j);
+                }else{
+                    break;
                 }
             }
         }

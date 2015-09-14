@@ -4,6 +4,7 @@ package algorithm.leetcode;
  * Created by hy on 2015/7/27.
  */
 public class LowestAncestorOfBinaryTree {
+
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root==null || p==null || q==null){
             return null;
