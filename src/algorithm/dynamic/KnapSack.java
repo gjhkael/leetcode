@@ -1,15 +1,20 @@
 package algorithm.dynamic;
 
+import java.util.BitSet;
+
 /**
  * Created by hy on 2015/8/3.
  */
 //0 1 背包问题
 public class KnapSack {
-
     public static void main(String[] args){
         int weigth[]=new int[]{3,2,2,1};
         int vaule[]=new int[]{100,10,20,50};
         int volume=5;
+        BitSet s=new BitSet();
+        s.set(0,true);
+        s.set(1,true);
+        System.out.println(s.get(1));
         System.out.println(knapSack(weigth,vaule,volume));
     }
 
