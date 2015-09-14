@@ -11,7 +11,7 @@ public class BinaryTreeAll{
         TreeNode r1 = new TreeNode(6);
         TreeNode r2 = new TreeNode(4);
         TreeNode r3 = new TreeNode(8);
-        TreeNode r4 = new TreeNode(4);
+        TreeNode r4 = new TreeNode(3);
         TreeNode r5 = new TreeNode(5);
         TreeNode r6 = new TreeNode(7);
         TreeNode r7 = new TreeNode(9);
@@ -24,7 +24,7 @@ public class BinaryTreeAll{
         //inOrderTraversalTree(r1);
         //TreeNode head=convertBST2DLLRec(r1);
         //System.out.println(head.right.right.right.left.val);
-        System.out.println(getKthLevel(r1,3));
+       inOrderTraversalTree(r1);
     }
     private static class TreeNode{
         TreeNode left;
@@ -34,7 +34,6 @@ public class BinaryTreeAll{
             this.val=val;
         }
     }
-
     /*求二叉树中的节点个数
      *递归解法
      */
@@ -76,6 +75,36 @@ public class BinaryTreeAll{
         return max(depthOfTree(root.right),depthOfTree(root.left))+1;
     }
 
+
+    public static int getDepth(TreeNode root) {
+        if(root == null){
+            return 0;
+        }
+        int depth = 0;                          // 深度
+        int currentLevelNodes = 1;      // 当前Level，node的数量
+        int nextLevelNodes = 0;         // 下一层Level，node的数量
+        LinkedList<TreeNode> queue = new LinkedList<TreeNode>();
+        queue.add(root);
+        while( !queue.isEmpty() ){
+            TreeNode cur = queue.remove();      // 从队头位置移除
+            currentLevelNodes--;            // 减少当前Level node的数量
+            if(cur.left != null){               // 如果有左孩子，加到队尾
+                queue.add(cur.left);
+                nextLevelNodes++;           // 并增加下一层Level node的数量
+            }
+            if(cur.right != null){          // 如果有右孩子，加到队尾
+                queue.add(cur.right);
+                nextLevelNodes++;
+            }
+            if(currentLevelNodes == 0){ // 说明已经遍历完当前层的所有节点
+                depth++;                       // 增加高度
+                currentLevelNodes = nextLevelNodes;     // 初始化下一层的遍历
+                nextLevelNodes = 0;
+            }
+        }
+        return depth;
+    }
+
     /* 前序遍历，中序遍历，后序遍历
      *
      */
@@ -98,7 +127,7 @@ public class BinaryTreeAll{
             if(pre.right!=null)
                 stack.push(pre.right);
             if(pre.left!=null)
-                stack.push(pre.right);
+                stack.push(pre.left);
         }
     }
 
@@ -124,8 +153,9 @@ public class BinaryTreeAll{
             }else{
                 TreeNode pre=stack.pop();
                 System.out.println(pre.val);
-                if(pre.right!=null)
-                    stack.push(pre.right);
+                if(pre.right!=null) {
+                    cur = pre.right;
+                }
             }
         }
     }
