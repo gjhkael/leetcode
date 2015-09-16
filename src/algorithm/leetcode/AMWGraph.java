@@ -114,12 +114,11 @@ public class AMWGraph {
         }
     }
 
-    private void depthFirstSearch(int [][]nums,boolean[] isVisited,int  i) {
+    public void depthFirstSearch(int [][]nums,boolean[] isVisited,int  i) {
         //首先访问该结点，在控制台打印出来
         System.out.print(i + "  ");
         //置该结点为已访问
         isVisited[i]=true;
-
         int w=-1;int tmp=-1;
         for(int j=0;j<nums.length;j++) {  //获得第一个邻接节点
             if (nums[i][j]>0) {
