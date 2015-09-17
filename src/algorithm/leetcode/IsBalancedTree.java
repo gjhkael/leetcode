@@ -1,20 +1,11 @@
 package algorithm.leetcode;
-
-import java.util.LinkedList;
-import java.util.Queue;
-
 /**
  * Created by hy on 2015/9/14.
  */
 public class IsBalancedTree {
 
     public boolean isBalanced(TreeNode root){
-
-
         return banlanced(root)>=0;
-
-
-
     }
 
     public int banlanced(TreeNode node){
