@@ -3,7 +3,7 @@ package algorithm.SwordOffer;
 /**
  * Created by havstack on 8/27/15.
  */
-public class Fibonacci {
+public class Fibonacci09 {
 
     public static void main(String[] args){
         System.out.println(fibonacci(12));

@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5ec06c8-9ade-4ab5-b214-1bc44db2c37d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/Array/MatrixPrint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/Tree/RebuildTree.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/structure/App.java" afterPath="$PROJECT_DIR$/src/structure/App.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\SwordOffer\MatrixFind.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/MatrixFind03.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\SwordOffer\PostOrderPrintList.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/PostOrderPrintList05.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\SwordOffer\QueueUsingStacks.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/QueueUsingStacks07.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\SwordOffer\RebuildTree.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/RebuildTree06.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\SwordOffer\ReplaceBlank.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/ReplaceBlank04.java" />
-      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\structure\Array\test.java" afterPath="$PROJECT_DIR$/src/structure/Array/SnakePrint.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\SwordOffer\Fibonacci.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/Fibonacci09.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\SwordOffer\MinNumberOfArray.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/MinNumberOfArray08.java" />
+      <change type="MOVED" beforePath="F:\ubuntu\forgithub\leetcode\src\algorithm\SwordOffer\NumberOfOne.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/NumberOfOne10.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,21 +29,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="App.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="App.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/structure/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.4883041" vertical-offset="666" max-vertical-offset="1650">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
+      <file leaf-file-name="MinNumberOfArray08.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/MinNumberOfArray08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5847953" vertical-offset="1425" max-vertical-offset="2725">
-              <caret line="73" column="24" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="950">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fibonacci09.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/Fibonacci09.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="925">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOfOne10.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/NumberOfOne10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,9 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/leetcode/PathSum2.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/leetcode/IsSymmetric.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/leetcode/MinDepthOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/UniqueBinarySearchTrees2.java" />
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/LowestAncestorOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Tree/IsBalancedTree.java" />
@@ -117,6 +129,9 @@
         <option value="$PROJECT_DIR$/src/structure/Tree/RebuildTree.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/QueueUsingStacks.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/QueueUsingStacks07.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/MinNumberOfArray08.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/Fibonacci09.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/NumberOfOne10.java" />
         <option value="$PROJECT_DIR$/src/structure/App.java" />
       </list>
     </option>
@@ -285,7 +300,7 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sort" />
+              <option name="myItemId" value="leetcode" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,39 +342,7 @@
       <recent name="F:\ubuntu\forgithub\leetcode\src\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration default="false" name="FirstNotRepateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.FirstNotRepateChar" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PostOrderPrintList05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.PostOrderPrintList05" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.App">
     <configuration default="false" name="RebuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.Tree.RebuildTree" />
       <option name="VM_PARAMETERS" />
@@ -394,6 +377,38 @@
     </configuration>
     <configuration default="false" name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.sort.QuickSort" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MinNumberOfArray08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.MinNumberOfArray08" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NumberOfOne10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.NumberOfOne10" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -611,19 +626,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.AAA" />
       <item index="1" class="java.lang.String" itemvalue="Application.ValidParentheses" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FirstNotRepateChar" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PostOrderPrintList05" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RebuildTree" />
-      <item index="5" class="java.lang.String" itemvalue="Application.App" />
-      <item index="6" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RebuildTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.App" />
+      <item index="4" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="5" class="java.lang.String" itemvalue="Application.MinNumberOfArray08" />
+      <item index="6" class="java.lang.String" itemvalue="Application.NumberOfOne10" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.QuickSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.App" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RebuildTree" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PostOrderPrintList05" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FirstNotRepateChar" />
+        <item index="0" class="java.lang.String" itemvalue="Application.App" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NumberOfOne10" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MinNumberOfArray08" />
+        <item index="3" class="java.lang.String" itemvalue="Application.QuickSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RebuildTree" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -743,48 +758,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/huaweiOj/BeautyString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4497751" vertical-offset="0" max-vertical-offset="1225">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/huaweiOj/ErrorCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1925">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/huaweiOj/CountWithSeven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38350055" vertical-offset="31" max-vertical-offset="950">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/AMWGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7254464" vertical-offset="1350" max-vertical-offset="4450">
-          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/LevelOrderPrintTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75124377" vertical-offset="372" max-vertical-offset="975">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/HasPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7489301" vertical-offset="0" max-vertical-offset="775">
-          <caret line="21" column="61" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/Hanruota.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54599404" vertical-offset="32" max-vertical-offset="925">
@@ -1130,18 +1103,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/structure/App.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.5482456" vertical-offset="1425" max-vertical-offset="2725">
+          <caret line="72" column="21" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/InversePairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5847953" vertical-offset="1425" max-vertical-offset="2725">
-          <caret line="73" column="24" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.25584796" vertical-offset="0" max-vertical-offset="1625">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/MinNumberOfArray08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="950">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/Fibonacci09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="925">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_60/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51608187" vertical-offset="14247" max-vertical-offset="34925">
+          <caret line="617" column="6" selection-start-line="617" selection-start-column="6" selection-end-line="617" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_60/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36988303" vertical-offset="14047" max-vertical-offset="35725">
+          <caret line="625" column="26" selection-start-line="625" selection-start-column="26" selection-end-line="625" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/NumberOfOne10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structure/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4883041" vertical-offset="666" max-vertical-offset="1650">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
           <folding />
         </state>
       </provider>

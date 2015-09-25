@@ -3,10 +3,10 @@ package algorithm.SwordOffer;
 /**
  * Created by havstack on 8/27/15.
  */
-public class NumberOfOne {
+public class NumberOfOne10 {
     public static void main(String[] args){
 
-        System.out.println(numberOf2(-1));
+        System.out.println(numberOf2(1));
     }
 
     public static int numberOf1(int n){//利用移位计算
@@ -26,6 +26,7 @@ public class NumberOfOne {
             n=n&(n-1);
         }
         return count;
+
     }
 
 }
