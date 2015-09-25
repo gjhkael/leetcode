@@ -3,12 +3,12 @@ package algorithm.SwordOffer;
 /**
  * Created by havstack on 8/21/15.
  */
-public class ReplaceBlank {
+public class ReplaceBlank04 {
     public static void main(String[] args){
         String test=" ";
         System.out.println(replaceBlank(test));
-
     }
+
     public static String replaceBlank(String s){
         if(s==null||s.length()==0)
             return s;
@@ -26,7 +26,6 @@ public class ReplaceBlank {
             }else{
                 result[resultLength--]=s.charAt(i);
             }
-
         }
         String results=new String(result);
         return results;

@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Created by hy on 2015/8/18.
  */
-public class RebuildTree {
+public class RebuildTree06 {
     private static class TreeNode{
         TreeNode left;
         TreeNode right;
@@ -52,7 +52,6 @@ public class RebuildTree {
         if(pre==null || inOrder==null){
             return null;
         }
-
         TreeNode root=null;
         List<Integer> leftPreOrder;
         List<Integer> rightPreOrder;

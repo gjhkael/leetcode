@@ -5,7 +5,7 @@ package algorithm.SwordOffer;
  */
 
 //二维数组，行和列分别是安升序排列，查找特定的值
-public class MatrixFind {
+public class MatrixFind03 {
     public static void main(String[] args){
         int [][]test=new int[][]{{1,2,3},{2,4,6},{5,7,9}};
         System.out.println(matrixFind(test,8));

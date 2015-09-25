@@ -3,7 +3,7 @@ package algorithm.SwordOffer;
 /**
  * Created by havstack on 8/21/15.
  */
-public class PostOrderPrintList {
+public class PostOrderPrintList05 {
 
     public static void main(String[] args){
         Node head=new Node(12);
