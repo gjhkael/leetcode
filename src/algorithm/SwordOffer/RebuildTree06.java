@@ -38,7 +38,6 @@ public class RebuildTree06 {
             int indexInOrder=inOrder.indexOf(preOrder.get(0));
             leftInOrder=inOrder.subList(0,indexInOrder);
             rightInOrder=inOrder.subList(indexInOrder+1,inOrder.size());
-
             leftPreOrder = preOrder.subList(1, leftInOrder.size()+1);
             rightPreOrder = preOrder.subList(leftInOrder.size()+1,preOrder.size());
             root.left=rebuildBinaryTreeRec(leftPreOrder,leftInOrder);
