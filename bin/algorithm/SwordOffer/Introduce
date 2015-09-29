@@ -4,6 +4,9 @@
 2.判断第二颗是不是第一颗树的子树 isSubTree18
 3.二叉树中和为某一值得路径  PathSum25
 4.平衡二叉树转换为双向链表 ConvertBSTDll26
-5.
-
-
+5.数组中的逆序对
+6.不用加减乘除做加法 ADDWithOut47 （使用异或和与操作就可以实现加法操作）
+7.把数组排成最小的数  PrintMinNumber33
+8.扑克牌的顺子 IsContinus44
+9.字符串的排列 PerMutation28
+10.最后剩下的数 LastRemaing45
