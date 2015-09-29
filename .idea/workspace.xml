@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5ec06c8-9ade-4ab5-b214-1bc44db2c37d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/Graph/AMWGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/FindCountN41.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/GetPermutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/Graph/GraphTraverse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/IsContinus44.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/PerMutation28.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/Permutations.java" />
-      <change type="DELETED" beforePath="F:\ubuntu\forgithub\leetcode\src\structure\Graph\test.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/structure/App.java" afterPath="$PROJECT_DIR$/src/structure/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/SwordOffer/Introduce" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/Introduce" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/SwordOffer/PrintMinNumber33.java" afterPath="$PROJECT_DIR$/src/algorithm/SwordOffer/PrintMinNumber33.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/Tree/Introduce" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/structure/Tree/BinaryTreeAll.java" afterPath="$PROJECT_DIR$/src/structure/Tree/BinaryTreeAll.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -36,16 +27,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BinaryTreeAll.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeAll.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/structure/Tree/BinaryTreeAll.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5805515" vertical-offset="2775" max-vertical-offset="17875">
-              <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+            <state vertical-scroll-proportion="85.0" vertical-offset="15790" max-vertical-offset="18350">
+              <caret line="535" column="87" selection-start-line="535" selection-start-column="79" selection-end-line="535" selection-end-column="87" />
               <folding>
-                <element signature="e#1737#1738#0" expanded="true" />
-                <element signature="e#1767#1768#0" expanded="true" />
-                <element signature="e#3470#3480#0" expanded="true" />
+                <element signature="e#1740#1741#0" expanded="true" />
+                <element signature="e#1770#1771#0" expanded="true" />
+                <element signature="e#3473#3483#0" expanded="true" />
+                <element signature="e#5000#5010#0" expanded="true" />
+                <element signature="e#5054#5064#0" expanded="true" />
+                <element signature="e#10447#10457#0" expanded="true" />
+                <element signature="e#10499#10509#0" expanded="true" />
+                <element signature="e#11465#11466#0" expanded="true" />
+                <element signature="e#11506#11507#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Introduce" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/Introduce">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasPathSum25.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/HasPathSum25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathSums25.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/PathSums25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7822932" vertical-offset="561" max-vertical-offset="1550">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsBalancedTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/IsBalancedTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+              <caret line="9" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Introduce" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/structure/Tree/Introduce">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="175">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeAll.java" />
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/Introduction.java" />
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/KthSmallest.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Tree/KthSmallest.java" />
@@ -89,7 +138,6 @@
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/RightSideView.java" />
         <option value="$PROJECT_DIR$/src/javalanguage/ThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/structure/LinkedList/ListAll.java" />
-        <option value="$PROJECT_DIR$/src/structure/Tree/BinaryTreeAll.java" />
         <option value="$PROJECT_DIR$/src/structure/Array/SnakePrint.java" />
         <option value="$PROJECT_DIR$/src/structure/Array/MatrixPrint.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/MatrixFind03.java" />
@@ -114,6 +162,8 @@
         <option value="$PROJECT_DIR$/src/structure/App.java" />
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/GetPermutation.java" />
         <option value="$PROJECT_DIR$/src/structure/Graph/GraphTraverse.java" />
+        <option value="$PROJECT_DIR$/src/structure/Tree/Introduce" />
+        <option value="$PROJECT_DIR$/src/structure/Tree/BinaryTreeAll.java" />
       </list>
     </option>
   </component>
@@ -199,6 +249,72 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="structure" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tree" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tree" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SwordOffer" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -257,23 +373,7 @@
       <recent name="F:\ubuntu\forgithub\leetcode\src\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GraphTraverse">
-    <configuration default="false" name="ADDWithOut47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.ADDWithOut47" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BinaryTreeAll">
     <configuration default="false" name="PrintMinNumber33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.SwordOffer.PrintMinNumber33" />
       <option name="VM_PARAMETERS" />
@@ -330,6 +430,22 @@
     </configuration>
     <configuration default="false" name="GraphTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.Graph.GraphTraverse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryTreeAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.Tree.BinaryTreeAll" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -547,19 +663,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.AAA" />
       <item index="1" class="java.lang.String" itemvalue="Application.ValidParentheses" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ADDWithOut47" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PrintMinNumber33" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IsContinus44" />
-      <item index="5" class="java.lang.String" itemvalue="Application.App" />
-      <item index="6" class="java.lang.String" itemvalue="Application.GraphTraverse" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PrintMinNumber33" />
+      <item index="3" class="java.lang.String" itemvalue="Application.IsContinus44" />
+      <item index="4" class="java.lang.String" itemvalue="Application.App" />
+      <item index="5" class="java.lang.String" itemvalue="Application.GraphTraverse" />
+      <item index="6" class="java.lang.String" itemvalue="Application.BinaryTreeAll" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GraphTraverse" />
-        <item index="1" class="java.lang.String" itemvalue="Application.App" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IsContinus44" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PrintMinNumber33" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ADDWithOut47" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreeAll" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GraphTraverse" />
+        <item index="2" class="java.lang.String" itemvalue="Application.App" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IsContinus44" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PrintMinNumber33" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -682,20 +798,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/leetcode/RightSideView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1328125" vertical-offset="181" max-vertical-offset="1100">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/sort/MinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6417411" vertical-offset="0" max-vertical-offset="1275">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1325">
@@ -907,20 +1009,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/HasPathSum25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14417532" vertical-offset="0" max-vertical-offset="867">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/PathSums25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.08650519" vertical-offset="525" max-vertical-offset="1550">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/ConvertBSTDll26.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0537791" vertical-offset="0" max-vertical-offset="1800">
@@ -967,14 +1055,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.4247491" vertical-offset="2325" max-vertical-offset="5825">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/Introduce">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27901787" vertical-offset="0" max-vertical-offset="896">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1052,15 +1132,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/structure/Tree/Introduce">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="175">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/IsBalancedTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="9" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/structure/Tree/BinaryTreeAll.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5805515" vertical-offset="2775" max-vertical-offset="17875">
-          <caret line="129" column="9" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+        <state vertical-scroll-proportion="85.0" vertical-offset="15790" max-vertical-offset="18350">
+          <caret line="535" column="87" selection-start-line="535" selection-start-column="79" selection-end-line="535" selection-end-column="87" />
           <folding>
-            <element signature="e#1737#1738#0" expanded="true" />
-            <element signature="e#1767#1768#0" expanded="true" />
-            <element signature="e#3470#3480#0" expanded="true" />
+            <element signature="e#1740#1741#0" expanded="true" />
+            <element signature="e#1770#1771#0" expanded="true" />
+            <element signature="e#3473#3483#0" expanded="true" />
+            <element signature="e#5000#5010#0" expanded="true" />
+            <element signature="e#5054#5064#0" expanded="true" />
+            <element signature="e#10447#10457#0" expanded="true" />
+            <element signature="e#10499#10509#0" expanded="true" />
+            <element signature="e#11465#11466#0" expanded="true" />
+            <element signature="e#11506#11507#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/Introduce">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/HasPathSum25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/SwordOffer/PathSums25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7822932" vertical-offset="561" max-vertical-offset="1550">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
