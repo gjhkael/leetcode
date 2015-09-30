@@ -23,7 +23,7 @@ public class BinaryTreeAll {
         //inOrderTraversalTree(r1);
         //TreeNode head=convertBST2DLLRec(r1);
         //System.out.println(head.right.right.right.left.val);
-       inOrderTraversalTree(r1);
+        postOrderTraversalTree(r1);
     }
     private static class TreeNode{
         TreeNode left;
@@ -120,6 +120,8 @@ public class BinaryTreeAll {
             return;
         Stack<TreeNode> stack=new Stack<TreeNode>();
         stack.push(root);
+
+
         while(!stack.isEmpty()){
             TreeNode pre=stack.pop();
             System.out.println(pre.val);
@@ -167,6 +169,7 @@ public class BinaryTreeAll {
         preOrderTraversal(root.right);
         System.out.println(root.val);
     }
+
     //非递归解决后序遍历需要再理解一下
     public static void postOrderTraversalTree(TreeNode root){
         if(root==null)
@@ -185,7 +188,7 @@ public class BinaryTreeAll {
             }
         }
         while(!outPut.isEmpty())
-            System.out.println(outPut.pop().val+" ");
+            System.out.print(outPut.pop().val+" ");
     }
 
     //层次遍历二叉树
@@ -389,6 +392,22 @@ public class BinaryTreeAll {
         if(Math.abs(depthOfTree(root.left)-depthOfTree(root.right))>1)
             return false;
         return isAVLTree(root.left)&&isAVLTree(root.right);
+    }
+    //第二种解法。
+    public boolean isBalanced(TreeNode root){
+        return banlanced(root)>=0;
+    }
+
+    public int banlanced(TreeNode node){
+        if(node ==null){
+            return 0;
+        }
+        int ld = banlanced(node.left);
+        int rd = banlanced(node.right);
+        if(ld>=0 && rd>=0 && Math.abs(ld-rd)<2)
+            return 1+Math.max(ld,rd);
+        else
+            return -1;
     }
 
     // 3. 判断两个树是否互相镜像

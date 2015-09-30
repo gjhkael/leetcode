@@ -1,16 +1,12 @@
-package structure;
+package algorithm.leetcode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
-public class App {
-
-    public static void main(String[] args) {
-        int []test={3,3,0,0,2,3,2};
-        List<List<Integer>>list=new App().permute(test);
-        System.out.println(list.size()+""+list);
-    }
+/**
+ * Created by hy on 2015/9/29.
+ */
+public class Permutations {
 
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>>  result = new ArrayList<List<Integer>>();
@@ -32,9 +28,6 @@ public class App {
             return ;
         }else{
             for(int i=start; i<=end;i++){
-                if(i<end&&(nums[i]==nums[i+1])){
-                    continue;
-                }
                 int tmps = nums[start];
                 nums[start] = nums[i];
                 nums[i] = tmps;

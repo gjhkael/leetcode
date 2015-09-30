@@ -11,8 +11,6 @@ import java.util.*;
 public class PrintMinNumber33 {
 
     public static void main(String[] args){
-
-
         int[] test={121,3,32};
         printMinNumber(test);
     }
