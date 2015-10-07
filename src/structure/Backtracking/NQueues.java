@@ -1,4 +1,4 @@
-package algorithm.DFSSearch;
+package structure.Backtracking;
 
 /**
  * Created by hy on 2015/9/16.
@@ -6,7 +6,7 @@ package algorithm.DFSSearch;
 public class NQueues {
     static int count;   //记录多少种解法
     public static void main(String[] args) {
-        int sequence[] = new int[8];                                     //记录第i行皇后列的位置。sequence[0]表示第0行皇后的列数
+        int sequence[] = new int[8];                                     //记录第一行皇后列的位置。sequence[0]表示第0行皇后的列数
         eightQueue(sequence,0);
         System.out.println(count);
     }
@@ -24,7 +24,8 @@ public class NQueues {
     }
 
     public static void eightQueue(int[] sequence,int rows){
-        for(int column =0;column<8;column++){
+        int column;
+        for(column =0;column<8;column++){
             if(isSafe(rows, column, sequence)){    //从0行 i列开始判断
                 sequence[rows] = column;         //第rows行的值为column列
                 if(rows==7){                     //如果是第八行了，那么肯定是完整的一个解法
