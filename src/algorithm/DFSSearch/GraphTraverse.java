@@ -56,7 +56,7 @@ public class GraphTraverse {
                     int j = queue.poll();
                     isVisited[j] = true;
                     for(int k =0;k<n;k++){
-                        if(table[i][k]==1 && isVisited[k]==false){
+                        if(table[j][k]==1 && isVisited[k]==false){
                             System.out.print(node[k]);
                             queue.add(k);
                             isVisited[k]=true;

@@ -21,4 +21,32 @@ public class DeleteDuplicates {
         }
         return head;
     }
+
+    public ListNode deleteDuplicates1(ListNode head) {
+        if(head==null || head.next==null){
+            return head;
+        }
+        ListNode helper = new ListNode(0);
+        ListNode index = helper;
+        helper.next = head;
+        ListNode cur = head;
+        ListNode pre = head.next;
+        while(pre!=null){
+            while(pre!=null && pre.next!=null && pre.next.val==cur.val){
+                pre=pre.next;
+            }
+            if(pre.val==cur.val){
+                index.next = pre.next;
+                cur=index.next;
+                if(cur==null)
+                    break;
+                pre=cur.next;
+            }else{
+                index = cur;
+                cur = pre;
+                pre=cur.next;
+            }
+        }
+        return helper.next;
+    }
 }

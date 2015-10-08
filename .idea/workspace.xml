@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5ec06c8-9ade-4ab5-b214-1bc44db2c37d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/DetectCycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/HasCycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/TwoPointers/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/Backtracking/Maze.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/Backtracking/Mazing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/Backtracking/NQueues.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/SwapPairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/leetcode/DeleteDuplicates.java" afterPath="$PROJECT_DIR$/src/algorithm/leetcode/DeleteDuplicates.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/DFSSearch/GraphTraverse.java" afterPath="$PROJECT_DIR$/src/algorithm/DFSSearch/GraphTraverse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/DFSSearch/NQueues.java" afterPath="$PROJECT_DIR$/src/algorithm/DFSSearch/NQueues.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/structure/Backtracking/test.java" afterPath="$PROJECT_DIR$/src/structure/Backtracking/test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -24,7 +37,18 @@
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="BinaryTreeAll.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeAll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.51004463" vertical-offset="2768" max-vertical-offset="17825">
+              <caret line="134" column="30" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -73,7 +97,6 @@
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/MinNumberOfArray08.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/Fibonacci09.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/NumberOfOne10.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/PerMutation28.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/FindCountN41.java" />
         <option value="$PROJECT_DIR$/src/algorithm/SwordOffer/ADDWithOut47.java" />
@@ -88,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/structure/Tree/Introduce" />
         <option value="$PROJECT_DIR$/src/structure/Tree/BinaryTreeAll.java" />
         <option value="$PROJECT_DIR$/src/algorithm/leetcode/InsertionSortList.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -174,6 +198,28 @@
               <option name="myItemId" value="algorithm" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tree" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -197,21 +243,6 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/ubuntu/forgithub/leetcode/src/algorithm/sort/QuickSort.java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace/test" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="structure.Graph" />
-      <recent name="structure.Tree" />
-      <recent name="structure.LinkedList" />
-      <recent name="algorithm.DFSSearch" />
-      <recent name="algorithm.Tree" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\ubuntu\forgithub\leetcode\src\algorithm\Tree" />
-      <recent name="F:\ubuntu\forgithub\leetcode\src\datastructure" />
-      <recent name="F:\ubuntu\forgithub\leetcode\src\algorithm\leetcode" />
-      <recent name="F:\ubuntu\forgithub\leetcode\src\algorithm" />
-    </key>
   </component>
   <component name="RunManager" selected="Application.InsertionSortList">
     <configuration default="false" name="IsContinus44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -524,9 +555,6 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c5ec06c8-9ade-4ab5-b214-1bc44db2c37d" name="Default" comment="" />
@@ -535,29 +563,9 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="0">
-    <todo-panel id="selected-file">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="default-changelist">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -574,7 +582,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23614073" sideWeight="0.66162163" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23614073" sideWeight="0.66162163" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22378379" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -632,10 +640,6 @@
       </breakpoints-dialog>
       <option name="time" value="6" />
     </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algorithm/sort/InserSort.java">
@@ -743,13 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2768" max-vertical-offset="17825">
-          <caret line="134" column="30" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_60/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7076023" vertical-offset="13891" max-vertical-offset="14575">
@@ -817,13 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="35975">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -992,6 +982,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39018953" vertical-offset="0" max-vertical-offset="1025">
           <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="896">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Tree/BinaryTreeAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51004463" vertical-offset="2768" max-vertical-offset="17825">
+          <caret line="134" column="30" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="30" />
           <folding />
         </state>
       </provider>
