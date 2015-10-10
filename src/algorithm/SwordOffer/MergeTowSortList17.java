@@ -19,6 +19,18 @@ public class MergeTowSortList17 {
         }
     }
 
+    public static ListNode mergeTowSortList1(ListNode l1,ListNode l2){
+        if(l1 == null) return l2;
+        if(l2 == null) return l1;
+        if(l1.value < l2.value) {
+            l1.next = mergeTowSortList1(l1.next, l2);
+            return l1;
+        } else {
+            l2.next = mergeTowSortList1(l2.next, l1);
+            return l2;
+        }
+    }
+
     //基本思路是不断的将最小的节点赋值给result的next节点、同时头节点指向下一个节点。
     public static ListNode mergeTowSortList(ListNode head1,ListNode head2){
         if(head1==null){

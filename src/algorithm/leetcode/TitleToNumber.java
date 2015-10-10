@@ -5,7 +5,7 @@ package algorithm.leetcode;
  */
 public class TitleToNumber {
     public static void main(String[] args){
-        System.out.println(titleToNumber(""));
+        System.out.println(titleToNumber("ABC"));
 
     }
 
